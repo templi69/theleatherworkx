@@ -1,0 +1,6 @@
+{
+  "name": "The Leather Workx",
+  "description": "Premium handcrafted leather goods and bespoke hand-painted accessories e-commerce store with Cash on Delivery and business owner admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
